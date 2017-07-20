@@ -1,0 +1,19 @@
+﻿  Source.cpp
+c:\users\dell\documents\visual studio 2015\projects\project1\project1\hopcroft-karp.h(11): warning C4005: 'MAX': macro redefinition
+  e:\opencv\build\include\opencv2\core\cvdef.h(414): note: see previous definition of 'MAX'
+c:\users\dell\documents\visual studio 2015\projects\project1\project1\hopcroft-karp.h(172): warning C4101: 'len': unreferenced local variable
+c:\users\dell\documents\visual studio 2015\projects\project1\project1\hopcroft-karp.h(276): warning C4101: 'len': unreferenced local variable
+c:\users\dell\documents\visual studio 2015\projects\project1\project1\md5.h(353): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+c:\users\dell\documents\visual studio 2015\projects\project1\project1\md5.h(377): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+c:\users\dell\documents\visual studio 2015\projects\project1\project1\source.cpp(48): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\dell\documents\visual studio 2015\projects\project1\project1\source.cpp(131): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\dell\documents\visual studio 2015\projects\project1\project1\source.cpp(271): warning C4101: 'c': unreferenced local variable
+c:\users\dell\documents\visual studio 2015\projects\project1\project1\source.cpp(475): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\dell\documents\visual studio 2015\projects\project1\project1\source.cpp(488): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\dell\documents\visual studio 2015\projects\project1\project1\source.cpp(670): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
+c:\users\dell\documents\visual studio 2015\projects\project1\project1\source.cpp(675): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
+c:\users\dell\documents\visual studio 2015\projects\project1\project1\source.cpp(695): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\dell\documents\visual studio 2015\projects\project1\project1\source.cpp(715): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\dell\documents\visual studio 2015\projects\project1\project1\source.cpp(992): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
+  Project1.vcxproj -> C:\Users\dell\Documents\Visual Studio 2015\Projects\Project1\x64\Debug\Project1.exe
+  Project1.vcxproj -> C:\Users\dell\Documents\Visual Studio 2015\Projects\Project1\x64\Debug\Project1.pdb (Partial PDB)

@@ -1,0 +1,24 @@
+﻿  Source.cpp
+c:\users\dell\documents\visual studio 2015\projects\project1\project1\Hopcroft-Karp.h(11): warning C4005: 'MAX': macro redefinition
+  E:\opencv\build\include\opencv2/core/cvdef.h(414): note: see previous definition of 'MAX'
+c:\users\dell\documents\visual studio 2015\projects\project1\project1\Hopcroft-Karp.h(172): warning C4101: 'len': unreferenced local variable
+c:\users\dell\documents\visual studio 2015\projects\project1\project1\Hopcroft-Karp.h(276): warning C4101: 'len': unreferenced local variable
+c:\users\dell\documents\visual studio 2015\projects\project1\project1\md5.h(353): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+c:\users\dell\documents\visual studio 2015\projects\project1\project1\md5.h(377): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+Source.cpp(48): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+Source.cpp(131): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+Source.cpp(271): warning C4101: 'c': unreferenced local variable
+Source.cpp(475): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+Source.cpp(488): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+Source.cpp(670): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
+Source.cpp(675): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
+Source.cpp(695): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+Source.cpp(715): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+Source.cpp(992): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
+  Generating code
+  2 of 2111 functions ( 0.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Project1.vcxproj -> C:\Users\dell\Documents\Visual Studio 2015\Projects\Project1\x64\Release\Project1.exe
+  Project1.vcxproj -> C:\Users\dell\Documents\Visual Studio 2015\Projects\Project1\x64\Release\Project1.pdb (Full PDB)

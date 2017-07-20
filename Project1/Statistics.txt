@@ -1,0 +1,1212 @@
+Number of Bytes : 15942
+Compression ratio : 371.229
+
+Number of Bytes : 18212
+Compression ratio : 325.11
+
+Number of Bytes : 15973
+Compression ratio : 370.682
+
+Number of Bytes : 16205
+Compression ratio : 365.204
+
+Number of Bytes : 14468
+Compression ratio : 409.242
+
+Number of Bytes : 14849
+Compression ratio : 398.554
+
+Number of Bytes : 15152
+Compression ratio : 390.768
+
+Number of Bytes : 10739
+Compression ratio : 551.087
+
+Number of Bytes : 1173
+Compression ratio : 5045.29
+
+Number of Bytes : 15039
+Compression ratio : 393.519
+
+Number of Bytes : 15543
+Compression ratio : 380.937
+
+Number of Bytes : 16130
+Compression ratio : 366.902
+
+Number of Bytes : 15715
+Compression ratio : 376.768
+
+Number of Bytes : 14440
+Compression ratio : 409.842
+
+Number of Bytes : 16901
+Compression ratio : 350.329
+
+Number of Bytes : 13846
+Compression ratio : 427.626
+
+Number of Bytes : 16036
+Compression ratio : 369.052
+
+Number of Bytes : 16836
+Compression ratio : 351.682
+
+Number of Bytes : 17397
+Compression ratio : 340.341
+
+Number of Bytes : 16880
+Compression ratio : 350.6
+
+Number of Bytes : 18783
+Compression ratio : 315.227
+
+Number of Bytes : 14159
+Compression ratio : 417.976
+
+Number of Bytes : 16590
+Compression ratio : 356.896
+
+Number of Bytes : 16146
+Compression ratio : 366.538
+
+Number of Bytes : 13086
+Compression ratio : 452.461
+
+Number of Bytes : 14760
+Compression ratio : 400.957
+
+Number of Bytes : 14716
+Compression ratio : 402.345
+
+Number of Bytes : 12872
+Compression ratio : 459.767
+
+Number of Bytes : 18969
+Compression ratio : 311.989
+
+Number of Bytes : 15884
+Compression ratio : 372.584
+
+Number of Bytes : 16944
+Compression ratio : 349.276
+
+Number of Bytes : 15409
+Compression ratio : 384.069
+
+Number of Bytes : 15953
+Compression ratio : 370.973
+
+Number of Bytes : 15984
+Compression ratio : 370.253
+
+Number of Bytes : 18291
+Compression ratio : 323.554
+
+Number of Bytes : 16405
+Compression ratio : 360.751
+
+Number of Bytes : 16604
+Compression ratio : 356.428
+
+Number of Bytes : 15935
+Compression ratio : 371.392
+
+Number of Bytes : 16013
+Compression ratio : 369.583
+
+Number of Bytes : 16868
+Compression ratio : 350.849
+
+Number of Bytes : 16955
+Compression ratio : 349.049
+
+Number of Bytes : 17267
+Compression ratio : 342.742
+
+Number of Bytes : 16071
+Compression ratio : 368.249
+
+Number of Bytes : 15095
+Compression ratio : 392.059
+
+Number of Bytes : 14730
+Compression ratio : 401.774
+
+Number of Bytes : 11270
+Compression ratio : 525.122
+
+Number of Bytes : 8885
+Compression ratio : 666.08
+
+Number of Bytes : 16606
+Compression ratio : 356.552
+
+Number of Bytes : 15463
+Compression ratio : 382.728
+
+Number of Bytes : 18192
+Compression ratio : 325.468
+
+Number of Bytes : 19130
+Compression ratio : 309.364
+
+Number of Bytes : 17646
+Compression ratio : 335.538
+
+Number of Bytes : 15669
+Compression ratio : 377.696
+
+Number of Bytes : 15908
+Compression ratio : 372.197
+
+Number of Bytes : 16518
+Compression ratio : 358.283
+
+Total bytes : 853252
+Total Compression ratio : 25671.5
+Number of Bytes : 16385
+Compression ratio : 361.192
+
+Number of Bytes : 18942
+Compression ratio : 312.581
+
+Number of Bytes : 16147
+Compression ratio : 366.688
+
+Number of Bytes : 16231
+Compression ratio : 364.619
+
+Number of Bytes : 14813
+Compression ratio : 399.71
+
+Number of Bytes : 15700
+Compression ratio : 376.951
+
+Number of Bytes : 15387
+Compression ratio : 384.8
+
+Number of Bytes : 11395
+Compression ratio : 519.362
+
+Number of Bytes : 1696
+Compression ratio : 3489.46
+
+Number of Bytes : 15083
+Compression ratio : 392.371
+
+Number of Bytes : 15705
+Compression ratio : 377.008
+
+Number of Bytes : 16656
+Compression ratio : 355.315
+
+Number of Bytes : 16812
+Compression ratio : 352.184
+
+Number of Bytes : 15289
+Compression ratio : 387.084
+
+Number of Bytes : 17768
+Compression ratio : 333.234
+
+Number of Bytes : 14502
+Compression ratio : 408.282
+
+Number of Bytes : 17817
+Compression ratio : 332.162
+
+Number of Bytes : 18852
+Compression ratio : 314.073
+
+Number of Bytes : 18604
+Compression ratio : 318.26
+
+Number of Bytes : 18164
+Compression ratio : 325.816
+
+Number of Bytes : 19382
+Compression ratio : 305.485
+
+Number of Bytes : 14771
+Compression ratio : 400.658
+
+Number of Bytes : 18660
+Compression ratio : 317.305
+
+Number of Bytes : 17804
+Compression ratio : 332.404
+
+Number of Bytes : 13245
+Compression ratio : 447.03
+
+Number of Bytes : 16547
+Compression ratio : 357.655
+
+Number of Bytes : 15678
+Compression ratio : 377.657
+
+Number of Bytes : 13744
+Compression ratio : 430.597
+
+Number of Bytes : 20281
+Compression ratio : 291.806
+
+Number of Bytes : 16102
+Compression ratio : 367.54
+
+Number of Bytes : 17935
+Compression ratio : 329.976
+
+Number of Bytes : 15572
+Compression ratio : 380.049
+
+Number of Bytes : 17637
+Compression ratio : 335.552
+
+Number of Bytes : 16287
+Compression ratio : 363.365
+
+Number of Bytes : 18825
+Compression ratio : 314.376
+
+Number of Bytes : 16914
+Compression ratio : 349.895
+
+Number of Bytes : 18292
+Compression ratio : 323.536
+
+Number of Bytes : 16908
+Compression ratio : 350.019
+
+Number of Bytes : 16526
+Compression ratio : 358.11
+
+Number of Bytes : 19250
+Compression ratio : 307.435
+
+Number of Bytes : 18086
+Compression ratio : 327.221
+
+Number of Bytes : 18987
+Compression ratio : 311.694
+
+Number of Bytes : 16756
+Compression ratio : 353.194
+
+Number of Bytes : 15514
+Compression ratio : 381.47
+
+Number of Bytes : 15371
+Compression ratio : 385.019
+
+Number of Bytes : 11379
+Compression ratio : 520.092
+
+Number of Bytes : 9343
+Compression ratio : 633.429
+
+Number of Bytes : 17444
+Compression ratio : 339.424
+
+Number of Bytes : 16180
+Compression ratio : 365.768
+
+Number of Bytes : 18049
+Compression ratio : 328.046
+
+Number of Bytes : 18537
+Compression ratio : 319.26
+
+Number of Bytes : 17914
+Compression ratio : 330.519
+
+Number of Bytes : 16797
+Compression ratio : 352.332
+
+Number of Bytes : 16439
+Compression ratio : 360.175
+
+Number of Bytes : 16250
+Compression ratio : 364.192
+
+Total bytes : 895354
+Total Compression ratio : 23183.4
+Number of Bytes : 16385
+Compression ratio : 361.192
+
+Number of Bytes : 18942
+Compression ratio : 312.581
+
+Number of Bytes : 16147
+Compression ratio : 366.688
+
+Number of Bytes : 16231
+Compression ratio : 364.619
+
+Number of Bytes : 14813
+Compression ratio : 399.71
+
+Number of Bytes : 15700
+Compression ratio : 376.951
+
+Number of Bytes : 15387
+Compression ratio : 384.8
+
+Number of Bytes : 11395
+Compression ratio : 519.362
+
+Number of Bytes : 1696
+Compression ratio : 3489.46
+
+Number of Bytes : 15083
+Compression ratio : 392.371
+
+Number of Bytes : 16385
+Compression ratio : 361.192
+
+Number of Bytes : 18942
+Compression ratio : 312.581
+
+Number of Bytes : 16147
+Compression ratio : 366.688
+
+Number of Bytes : 16231
+Compression ratio : 364.619
+
+Number of Bytes : 16385
+Compression ratio : 361.192
+
+Number of Bytes : 18942
+Compression ratio : 312.581
+
+Number of Bytes : 16147
+Compression ratio : 366.688
+
+Number of Bytes : 16231
+Compression ratio : 364.619
+
+Number of Bytes : 14813
+Compression ratio : 399.71
+
+Number of Bytes : 15700
+Compression ratio : 376.951
+
+Number of Bytes : 15387
+Compression ratio : 384.8
+
+Number of Bytes : 11395
+Compression ratio : 519.362
+
+Number of Bytes : 1696
+Compression ratio : 3489.46
+
+Number of Bytes : 15083
+Compression ratio : 392.371
+
+Number of Bytes : 15705
+Compression ratio : 377.008
+
+Number of Bytes : 16656
+Compression ratio : 355.315
+
+Number of Bytes : 16812
+Compression ratio : 352.184
+
+Number of Bytes : 15289
+Compression ratio : 387.084
+
+Number of Bytes : 17768
+Compression ratio : 333.234
+
+Number of Bytes : 14502
+Compression ratio : 408.282
+
+Number of Bytes : 17817
+Compression ratio : 332.162
+
+Number of Bytes : 18852
+Compression ratio : 314.073
+
+Number of Bytes : 18604
+Compression ratio : 318.26
+
+Number of Bytes : 18164
+Compression ratio : 325.816
+
+Number of Bytes : 19382
+Compression ratio : 305.485
+
+Number of Bytes : 14771
+Compression ratio : 400.658
+
+Number of Bytes : 18660
+Compression ratio : 317.305
+
+Number of Bytes : 17804
+Compression ratio : 332.404
+
+Number of Bytes : 13245
+Compression ratio : 447.03
+
+Number of Bytes : 16547
+Compression ratio : 357.655
+
+Number of Bytes : 15678
+Compression ratio : 377.657
+
+Number of Bytes : 13744
+Compression ratio : 430.597
+
+Number of Bytes : 20281
+Compression ratio : 291.806
+
+Number of Bytes : 16102
+Compression ratio : 367.54
+
+Number of Bytes : 17935
+Compression ratio : 329.976
+
+Number of Bytes : 15572
+Compression ratio : 380.049
+
+Number of Bytes : 17637
+Compression ratio : 335.552
+
+Number of Bytes : 16287
+Compression ratio : 363.365
+
+Number of Bytes : 18825
+Compression ratio : 314.376
+
+Number of Bytes : 16914
+Compression ratio : 349.895
+
+Number of Bytes : 18292
+Compression ratio : 323.536
+
+Number of Bytes : 16908
+Compression ratio : 350.019
+
+Number of Bytes : 16526
+Compression ratio : 358.11
+
+Number of Bytes : 19250
+Compression ratio : 307.435
+
+Number of Bytes : 18086
+Compression ratio : 327.221
+
+Number of Bytes : 18987
+Compression ratio : 311.694
+
+Number of Bytes : 16756
+Compression ratio : 353.194
+
+Number of Bytes : 15514
+Compression ratio : 381.47
+
+Number of Bytes : 15371
+Compression ratio : 385.019
+
+Number of Bytes : 11379
+Compression ratio : 520.092
+
+Number of Bytes : 9343
+Compression ratio : 633.429
+
+Number of Bytes : 17444
+Compression ratio : 339.424
+
+Number of Bytes : 16180
+Compression ratio : 365.768
+
+Number of Bytes : 18049
+Compression ratio : 328.046
+
+Number of Bytes : 18537
+Compression ratio : 319.26
+
+Number of Bytes : 17914
+Compression ratio : 330.519
+
+Number of Bytes : 16797
+Compression ratio : 352.332
+
+Number of Bytes : 16439
+Compression ratio : 360.175
+
+Number of Bytes : 16250
+Compression ratio : 364.192
+
+Total bytes : 895354
+Total Compression ratio : 23183.4
+Number of Bytes : 15942
+Compression ratio : 371.229
+
+Number of Bytes : 18212
+Compression ratio : 325.11
+
+Number of Bytes : 15973
+Compression ratio : 370.682
+
+Number of Bytes : 22429
+Compression ratio : 263.86
+
+Number of Bytes : 26245
+Compression ratio : 225.601
+
+Number of Bytes : 22770
+Compression ratio : 260.031
+
+Number of Bytes : 23391
+Compression ratio : 253.009
+
+Number of Bytes : 20941
+Compression ratio : 282.742
+
+Number of Bytes : 20442
+Compression ratio : 289.508
+
+Number of Bytes : 22469
+Compression ratio : 263.515
+
+Number of Bytes : 15380
+Compression ratio : 384.794
+
+Number of Bytes : 2120
+Compression ratio : 2791.57
+
+Number of Bytes : 21562
+Compression ratio : 274.47
+
+Number of Bytes : 21235
+Compression ratio : 278.828
+
+Number of Bytes : 23727
+Compression ratio : 249.426
+
+Number of Bytes : 22468
+Compression ratio : 263.526
+
+Number of Bytes : 20187
+Compression ratio : 293.165
+
+Number of Bytes : 23814
+Compression ratio : 248.631
+
+Number of Bytes : 19512
+Compression ratio : 303.45
+
+Number of Bytes : 23431
+Compression ratio : 252.577
+
+Number of Bytes : 24701
+Compression ratio : 239.703
+
+Number of Bytes : 24992
+Compression ratio : 236.912
+
+Number of Bytes : 24934
+Compression ratio : 237.352
+
+Number of Bytes : 26648
+Compression ratio : 222.19
+
+Number of Bytes : 19552
+Compression ratio : 302.686
+
+Number of Bytes : 23761
+Compression ratio : 249.186
+
+Number of Bytes : 22632
+Compression ratio : 261.494
+
+Number of Bytes : 17803
+Compression ratio : 332.579
+
+Number of Bytes : 21224
+Compression ratio : 278.841
+
+Number of Bytes : 21146
+Compression ratio : 280.001
+
+Number of Bytes : 19826
+Compression ratio : 298.503
+
+Number of Bytes : 28082
+Compression ratio : 210.744
+
+Number of Bytes : 22052
+Compression ratio : 268.371
+
+Number of Bytes : 24683
+Compression ratio : 239.765
+
+Number of Bytes : 21273
+Compression ratio : 278.199
+
+Number of Bytes : 23221
+Compression ratio : 254.861
+
+Number of Bytes : 22089
+Compression ratio : 267.922
+
+Number of Bytes : 27041
+Compression ratio : 218.857
+
+Number of Bytes : 22929
+Compression ratio : 258.107
+
+Number of Bytes : 24155
+Compression ratio : 245.006
+
+Number of Bytes : 22135
+Compression ratio : 267.365
+
+Number of Bytes : 23287
+Compression ratio : 254.139
+
+Number of Bytes : 24563
+Compression ratio : 240.937
+
+Number of Bytes : 24078
+Compression ratio : 245.79
+
+Number of Bytes : 24459
+Compression ratio : 241.961
+
+Number of Bytes : 22003
+Compression ratio : 268.969
+
+Number of Bytes : 21776
+Compression ratio : 271.773
+
+Number of Bytes : 20439
+Compression ratio : 289.551
+
+Number of Bytes : 16265
+Compression ratio : 363.856
+
+Number of Bytes : 13522
+Compression ratio : 437.666
+
+Number of Bytes : 23531
+Compression ratio : 251.622
+
+Number of Bytes : 22279
+Compression ratio : 265.637
+
+Number of Bytes : 26162
+Compression ratio : 226.317
+
+Number of Bytes : 28934
+Compression ratio : 204.539
+
+Number of Bytes : 25386
+Compression ratio : 233.235
+
+Number of Bytes : 23194
+Compression ratio : 255.158
+
+Number of Bytes : 22609
+Compression ratio : 261.883
+
+Number of Bytes : 23271
+Compression ratio : 254.313
+
+Total bytes : 1222760
+Total Compression ratio : 17194.7
+Number of Bytes : 22429
+Compression ratio : 263.86
+
+Number of Bytes : 26245
+Compression ratio : 225.601
+
+Number of Bytes : 22770
+Compression ratio : 260.031
+
+Number of Bytes : 23391
+Compression ratio : 253.009
+
+Number of Bytes : 20941
+Compression ratio : 282.742
+
+Number of Bytes : 20442
+Compression ratio : 289.508
+
+Number of Bytes : 22469
+Compression ratio : 263.515
+
+Number of Bytes : 15380
+Compression ratio : 384.794
+
+Number of Bytes : 2120
+Compression ratio : 2791.57
+
+Number of Bytes : 21562
+Compression ratio : 274.47
+
+Number of Bytes : 21235
+Compression ratio : 278.828
+
+Number of Bytes : 23727
+Compression ratio : 249.426
+
+Number of Bytes : 22468
+Compression ratio : 263.526
+
+Number of Bytes : 20187
+Compression ratio : 293.165
+
+Number of Bytes : 23814
+Compression ratio : 248.631
+
+Number of Bytes : 19512
+Compression ratio : 303.45
+
+Number of Bytes : 23431
+Compression ratio : 252.577
+
+Number of Bytes : 24701
+Compression ratio : 239.703
+
+Number of Bytes : 24992
+Compression ratio : 236.912
+
+Number of Bytes : 24934
+Compression ratio : 237.352
+
+Number of Bytes : 26648
+Compression ratio : 222.19
+
+Number of Bytes : 19552
+Compression ratio : 302.686
+
+Number of Bytes : 23761
+Compression ratio : 249.186
+
+Number of Bytes : 22632
+Compression ratio : 261.494
+
+Number of Bytes : 17803
+Compression ratio : 332.579
+
+Number of Bytes : 21224
+Compression ratio : 278.841
+
+Number of Bytes : 21146
+Compression ratio : 280.001
+
+Number of Bytes : 19826
+Compression ratio : 298.503
+
+Number of Bytes : 28082
+Compression ratio : 210.744
+
+Number of Bytes : 22052
+Compression ratio : 268.371
+
+Number of Bytes : 24683
+Compression ratio : 239.765
+
+Number of Bytes : 21273
+Compression ratio : 278.199
+
+Number of Bytes : 23221
+Compression ratio : 254.861
+
+Number of Bytes : 22089
+Compression ratio : 267.922
+
+Number of Bytes : 27041
+Compression ratio : 218.857
+
+Number of Bytes : 22929
+Compression ratio : 258.107
+
+Number of Bytes : 24155
+Compression ratio : 245.006
+
+Number of Bytes : 22135
+Compression ratio : 267.365
+
+Number of Bytes : 23287
+Compression ratio : 254.139
+
+Number of Bytes : 24563
+Compression ratio : 240.937
+
+Number of Bytes : 24078
+Compression ratio : 245.79
+
+Number of Bytes : 24459
+Compression ratio : 241.961
+
+Number of Bytes : 22003
+Compression ratio : 268.969
+
+Number of Bytes : 21776
+Compression ratio : 271.773
+
+Number of Bytes : 20439
+Compression ratio : 289.551
+
+Number of Bytes : 16265
+Compression ratio : 363.856
+
+Number of Bytes : 13522
+Compression ratio : 437.666
+
+Number of Bytes : 23531
+Compression ratio : 251.622
+
+Number of Bytes : 22279
+Compression ratio : 265.637
+
+Number of Bytes : 26162
+Compression ratio : 226.317
+
+Number of Bytes : 28934
+Compression ratio : 204.539
+
+Number of Bytes : 25386
+Compression ratio : 233.235
+
+Number of Bytes : 23194
+Compression ratio : 255.158
+
+Number of Bytes : 22609
+Compression ratio : 261.883
+
+Number of Bytes : 23271
+Compression ratio : 254.313
+
+Total bytes : 1222760
+Total Compression ratio : 17194.7
+Number of Bytes : 22429
+Compression ratio : 263.86
+
+Number of Bytes : 26245
+Compression ratio : 225.601
+
+Number of Bytes : 22770
+Compression ratio : 260.031
+
+Number of Bytes : 23391
+Compression ratio : 253.009
+
+Number of Bytes : 22429
+Compression ratio : 263.86
+
+Number of Bytes : 26245
+Compression ratio : 225.601
+
+Number of Bytes : 22770
+Compression ratio : 260.031
+
+Number of Bytes : 23391
+Compression ratio : 253.009
+
+Number of Bytes : 20941
+Compression ratio : 282.742
+
+Number of Bytes : 20442
+Compression ratio : 289.508
+
+Number of Bytes : 22469
+Compression ratio : 263.515
+
+Number of Bytes : 15380
+Compression ratio : 384.794
+
+Number of Bytes : 2120
+Compression ratio : 2791.57
+
+Number of Bytes : 21562
+Compression ratio : 274.47
+
+Number of Bytes : 21235
+Compression ratio : 278.828
+
+Number of Bytes : 23727
+Compression ratio : 249.426
+
+Number of Bytes : 22468
+Compression ratio : 263.526
+
+Number of Bytes : 20187
+Compression ratio : 293.165
+
+Number of Bytes : 23814
+Compression ratio : 248.631
+
+Number of Bytes : 19512
+Compression ratio : 303.45
+
+Number of Bytes : 23431
+Compression ratio : 252.577
+
+Number of Bytes : 24701
+Compression ratio : 239.703
+
+Number of Bytes : 24992
+Compression ratio : 236.912
+
+Number of Bytes : 24934
+Compression ratio : 237.352
+
+Number of Bytes : 26648
+Compression ratio : 222.19
+
+Number of Bytes : 19552
+Compression ratio : 302.686
+
+Number of Bytes : 23761
+Compression ratio : 249.186
+
+Number of Bytes : 22632
+Compression ratio : 261.494
+
+Number of Bytes : 17803
+Compression ratio : 332.579
+
+Number of Bytes : 21224
+Compression ratio : 278.841
+
+Number of Bytes : 21146
+Compression ratio : 280.001
+
+Number of Bytes : 19826
+Compression ratio : 298.503
+
+Number of Bytes : 28082
+Compression ratio : 210.744
+
+Number of Bytes : 22052
+Compression ratio : 268.371
+
+Number of Bytes : 24683
+Compression ratio : 239.765
+
+Number of Bytes : 21273
+Compression ratio : 278.199
+
+Number of Bytes : 23221
+Compression ratio : 254.861
+
+Number of Bytes : 22089
+Compression ratio : 267.922
+
+Number of Bytes : 27041
+Compression ratio : 218.857
+
+Number of Bytes : 22929
+Compression ratio : 258.107
+
+Number of Bytes : 24155
+Compression ratio : 245.006
+
+Number of Bytes : 22135
+Compression ratio : 267.365
+
+Number of Bytes : 23287
+Compression ratio : 254.139
+
+Number of Bytes : 24563
+Compression ratio : 240.937
+
+Number of Bytes : 24078
+Compression ratio : 245.79
+
+Number of Bytes : 24459
+Compression ratio : 241.961
+
+Number of Bytes : 22003
+Compression ratio : 268.969
+
+Number of Bytes : 21776
+Compression ratio : 271.773
+
+Number of Bytes : 22429
+Compression ratio : 263.86
+
+Number of Bytes : 26245
+Compression ratio : 225.601
+
+Number of Bytes : 22770
+Compression ratio : 260.031
+
+Number of Bytes : 22429
+Compression ratio : 263.86
+
+Number of Bytes : 26245
+Compression ratio : 225.601
+
+Number of Bytes : 15101
+Compression ratio : 391.903
+
+Number of Bytes : 17195
+Compression ratio : 344.339
+
+Number of Bytes : 15049
+Compression ratio : 393.442
+
+Number of Bytes : 15207
+Compression ratio : 389.171
+
+Number of Bytes : 13614
+Compression ratio : 434.913
+
+Number of Bytes : 14190
+Compression ratio : 417.063
+
+Number of Bytes : 14164
+Compression ratio : 418.025
+
+Number of Bytes : 10183
+Compression ratio : 581.177
+
+Number of Bytes : 1115
+Compression ratio : 5307.74
+
+Number of Bytes : 14137
+Compression ratio : 418.627
+
+Number of Bytes : 14771
+Compression ratio : 400.847
+
+Number of Bytes : 15147
+Compression ratio : 390.713
+
+Number of Bytes : 14927
+Compression ratio : 396.658
+
+Number of Bytes : 13758
+Compression ratio : 430.159
+
+Number of Bytes : 16059
+Compression ratio : 368.697
+
+Number of Bytes : 13148
+Compression ratio : 450.328
+
+Number of Bytes : 15257
+Compression ratio : 387.896
+
+Number of Bytes : 16025
+Compression ratio : 369.48
+
+Number of Bytes : 16509
+Compression ratio : 358.647
+
+Number of Bytes : 15937
+Compression ratio : 371.345
+
+Number of Bytes : 17771
+Compression ratio : 333.178
+
+Number of Bytes : 13494
+Compression ratio : 438.575
+
+Number of Bytes : 15883
+Compression ratio : 372.783
+
+Number of Bytes : 15330
+Compression ratio : 386.049
+
+Number of Bytes : 12450
+Compression ratio : 475.575
+
+Number of Bytes : 14111
+Compression ratio : 419.398
+
+Number of Bytes : 13954
+Compression ratio : 424.316
+
+Number of Bytes : 12024
+Compression ratio : 492.193
+
+Number of Bytes : 17886
+Compression ratio : 330.88
+
+Number of Bytes : 15056
+Compression ratio : 393.074
+
+Number of Bytes : 16008
+Compression ratio : 369.698
+
+Number of Bytes : 14614
+Compression ratio : 404.963
+
+Number of Bytes : 15176
+Compression ratio : 389.966
+
+Number of Bytes : 15174
+Compression ratio : 390.017
+
+Number of Bytes : 17147
+Compression ratio : 345.141
+
+Number of Bytes : 15566
+Compression ratio : 380.196
+
+Number of Bytes : 15789
+Compression ratio : 374.826
+
+Number of Bytes : 15208
+Compression ratio : 389.146
+
+Number of Bytes : 15072
+Compression ratio : 392.657
+
+Number of Bytes : 16133
+Compression ratio : 366.834
+
+Number of Bytes : 16121
+Compression ratio : 367.107
+
+Number of Bytes : 16217
+Compression ratio : 364.933
+
+Number of Bytes : 15338
+Compression ratio : 385.847
+
+Number of Bytes : 14223
+Compression ratio : 416.095
+
+Number of Bytes : 13878
+Compression ratio : 426.439
+
+Number of Bytes : 10588
+Compression ratio : 558.946
+
+Number of Bytes : 8031
+Compression ratio : 736.91
+
+Number of Bytes : 15633
+Compression ratio : 378.744
+
+Number of Bytes : 14614
+Compression ratio : 404.963
+
+Number of Bytes : 17065
+Compression ratio : 346.962
+
+Number of Bytes : 17683
+Compression ratio : 334.679
+
+Number of Bytes : 16604
+Compression ratio : 356.595
+
+Number of Bytes : 14780
+Compression ratio : 400.414
+
+Number of Bytes : 15049
+Compression ratio : 393.442
+
+Number of Bytes : 15539
+Compression ratio : 380.856
+
+Total bytes : 806702
+Total Compression ratio : 27143.6
